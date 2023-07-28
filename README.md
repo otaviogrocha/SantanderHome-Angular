@@ -1,5 +1,6 @@
 
-
+# SantanderHome-Angular
+Criação da Home do Banco Santander utilizando Angular, realizado durante a Santander Dev Week 2023
 
 <h3>FINALIZAR PROJETO - CHECAR REPOSITÓRIO ATUALIZADo</h3>
 
@@ -105,4 +106,5 @@ $ ng serve
  http://localhost:4200/
 ```
 Runs the app in the development mode.<br/>
+
 
