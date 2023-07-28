@@ -1,0 +1,13 @@
+.card-container{
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 23px;
+    border-radius: 12px;
+    background-color: #ED0000;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px 30px;
+}
