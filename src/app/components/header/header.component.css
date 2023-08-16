@@ -41,8 +41,25 @@ header{
     z-index: 3;
 }
 
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+    height: 40px;
+    display: flex;
+    justify-items: flex-start;
+    align-items: center;
+}
+
 .icons-box{
-    display:inline-flex
+    display:flex;
+    width: 10%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icons-box>*,
+.logo>*{
+    cursor: pointer;
 }
 
 .bell-icon{
