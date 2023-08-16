@@ -2,7 +2,11 @@
 # SantanderHome-Angular
 Criação da Home do Banco Santander utilizando Angular, realizado durante a Santander Dev Week 2023
 
-<h3>FINALIZAR PROJETO - CHECAR REPOSITÓRIO ATUALIZADO</h3>
+
+<h2>⚠ ATUALIZAÇÕES FUTURAS:</h2>
+- Terminar estilização do layout ✅ 
+- Criar Carrousel com as funções bancárias ✅
+- Deixar a aplicação responsiva
 
 
 
